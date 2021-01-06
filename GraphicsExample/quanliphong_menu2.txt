@@ -1,0 +1,6 @@
+ hai duong, ki su, tuan, khong, nam, kinh, 23, 3, 1/8/2000, 237,
+ TG, Sinh Vien, Van Loi, Khong, nam, Kinh, 10, 1, 27/12/1999, 312421407,
+kon tum, cong nhan,  dieu, khong, nam, kinh, 22, 3, 1/8/2000, 2506,
+kon tum, cong nhan,  dieu, khong, nam, kinh, 22, 3, 1/8/2000, 2596,
+ha tinh, cong nhan,  co, khong, nam, kinh, 22, 3, 1/8/2000, 2576,
+kon tum, cong nhan,  dieu, khong, nam, kinh, 22, 3, 1/8/2000, 2586

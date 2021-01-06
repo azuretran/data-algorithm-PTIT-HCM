@@ -1,0 +1,3 @@
+ha tinh, cong nhan,  linh, khong, nam, kinh, 1, 3, 1/8/2000, 2516,
+binh thuan, cong nhan,  trung, khong, nam, kinh, 2, 3, 1/8/2000, 2516,
+kon tum, cong nhan,  dieu, khong, nam, kinh, 22, 3, 1/8/2000, 2506
